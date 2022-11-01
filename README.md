@@ -6,4 +6,4 @@ If you come across them and you're learning Ruby, try coming up with a solution 
 
 Each Ruby file contains a small header, along with a description of the exercise. It will sometimes also include one or more alternative solutions. The syntax will generally follow standard Rubocop syntax linting, but might occasionally deviate in the alternative solutions.
 
-For questions or suggestions, you can reach me on Twitter via [@svdb](). Have fun learning Ruby!
+For questions or suggestions, you can reach me on Twitter via [@SebastianTerlei](https://twitter.com/SebastianTerlei). Have fun learning Ruby!
